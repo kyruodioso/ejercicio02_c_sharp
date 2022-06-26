@@ -1,0 +1,15 @@
+/home/kyru/Escritorio/cursoCsharp/ejercicio2/bin/Debug/net6.0/ejercicio2
+/home/kyru/Escritorio/cursoCsharp/ejercicio2/bin/Debug/net6.0/ejercicio2.deps.json
+/home/kyru/Escritorio/cursoCsharp/ejercicio2/bin/Debug/net6.0/ejercicio2.runtimeconfig.json
+/home/kyru/Escritorio/cursoCsharp/ejercicio2/bin/Debug/net6.0/ejercicio2.dll
+/home/kyru/Escritorio/cursoCsharp/ejercicio2/bin/Debug/net6.0/ejercicio2.pdb
+/home/kyru/Escritorio/cursoCsharp/ejercicio2/obj/Debug/net6.0/ejercicio2.csproj.AssemblyReference.cache
+/home/kyru/Escritorio/cursoCsharp/ejercicio2/obj/Debug/net6.0/ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+/home/kyru/Escritorio/cursoCsharp/ejercicio2/obj/Debug/net6.0/ejercicio2.AssemblyInfoInputs.cache
+/home/kyru/Escritorio/cursoCsharp/ejercicio2/obj/Debug/net6.0/ejercicio2.AssemblyInfo.cs
+/home/kyru/Escritorio/cursoCsharp/ejercicio2/obj/Debug/net6.0/ejercicio2.csproj.CoreCompileInputs.cache
+/home/kyru/Escritorio/cursoCsharp/ejercicio2/obj/Debug/net6.0/ejercicio2.dll
+/home/kyru/Escritorio/cursoCsharp/ejercicio2/obj/Debug/net6.0/refint/ejercicio2.dll
+/home/kyru/Escritorio/cursoCsharp/ejercicio2/obj/Debug/net6.0/ejercicio2.pdb
+/home/kyru/Escritorio/cursoCsharp/ejercicio2/obj/Debug/net6.0/ejercicio2.genruntimeconfig.cache
+/home/kyru/Escritorio/cursoCsharp/ejercicio2/obj/Debug/net6.0/ref/ejercicio2.dll
